@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Deept-Ratna/Weather"
   },
-  "author": "Jaspreet Kaur",
+  "author": "Deept Ratna",
   "license": "",
   "homepage": "",
   "devDependencies": {
